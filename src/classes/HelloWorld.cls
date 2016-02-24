@@ -5,7 +5,7 @@ public class HelloWorld {
     }
     
     public void sayMe() {
-        System.debug( 'Me' );
+        System.debug( 'Me and you' );
     }
     
 }
